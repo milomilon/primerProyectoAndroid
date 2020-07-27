@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mein_erstes_Projekt</string>
+    <string name="boton_text">Anmeldung</string>
+    <string name="titulo_app">Herzlich willkommen</string>
+</resources>
